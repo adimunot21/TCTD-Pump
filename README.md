@@ -15,7 +15,7 @@ Assembly:
 Making the Camshaft:
 The camshaft comprises of a rod with a 6mm diameter and 10 circular acrylic cams of a 6mm thickness (change according to casing). The .dxf files for the cams is attached. The cams are circular with an eccentric circular hole where the shaft would fit. The placement of the hole (distance from centre) will determine how big or small the wave will be. If too close to centre, the wave would be small, and vice versa. The cams also have an additional marking to signify the angle difference between 2 consecutive cams. Each cam is rotated by 40 degrees while placing so that when 10 cams are places, the first and last are in phase. 
 While laser cutting the cams, make an engraving in the small additional marking, and cut the rest 2 circles. For assembly, insert the 10 cams in the shaft, make sure that they are at the 40 degree offset using the engraving reference, and then use chlorofoam to stick them.
-<img src="https://user-images.githubusercontent.com/24414678/189589895-688c5311-7beb-4792-b372-eb4b0affb708.png" width="48">
+<img src="https://user-images.githubusercontent.com/24414678/189589895-688c5311-7beb-4792-b372-eb4b0affb708.png" width="480">
 ![image](https://user-images.githubusercontent.com/24414678/189589966-d29c4af0-81ef-47f1-8f1d-efcac967869d.png)
 
 Cam Followers: 
