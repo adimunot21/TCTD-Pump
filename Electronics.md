@@ -3,9 +3,12 @@
 
 The system is run using a microcontroller (Arduino UNO) connected to a stepper motor via a driver (A4988). A bubble sensor and buzzer are connected to the board as well.
 
-The motor driver allows to easily control the steppper motor. it requires a 12V supply from a battery:
+The motor driver allows to easily control the steppper motor. it requires a 12V supply from a battery Connect a 47 uF capacitor between the two battery pins:
 12V --> VMOT
 Gnd --> GND
+
+Connect the 12V battery to Vin on arduino as well to power it.
+12V --> Vin
 
 The 4 wires from the stepper motor go into 1A 1B 2A 2B according to thei coil configurations. To figure out the pairs, use try and error.
 
@@ -32,3 +35,16 @@ To reduce the vibrations and increase the accuracy, A4988 allows a 1/16th micros
 5V --> MS1
 5V --> MS2
 5V --> MS3
+
+A bubble sensor is used to detect air gaps. It has 3 pins, a 5V, GND and an Output pin. (Their are 2 output pins, but only one is needed for detection)
+
+5V --> 5V on arduino
+GND --> GND on arduino
+OUTPUT --> Digital pin 3 
+
+Connect a load resistor of 1k between the 5V and output pins of the sensor.
+
+Laslty, a buzzer is connected to act as an alarm.
+
++VE --> Digital pin 13
+-VE --> GND on arduino
