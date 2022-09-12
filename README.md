@@ -7,6 +7,8 @@ Files for the Infusion Pump Prototype created at TCTD
 <b>Working with CAD:</b>
 The casing was created on Fusion 360. It is made up of 4 bodies - Left casing, right casing, stepper motor and shaft. The latter two are just there for referencing purposes and aren't supposed to be printed. The uploaded files are in 2 formats, .f3d for fusion and .step to open in solidworks. 
 
+Cloud file for the design : https://a360.co/3eyJTcx
+
 <b>Printing the Casing:</b>
 ABS was used in order to print the two halves of the design, it is the recommened material due to its strength but PET-G can be explored too. Linear or Tree supports would be needed in order to print. Infill of 20-30% is sufficient. Rest settings were kept as default in the slicer.
 Use Flashprint for printing in Flashforge and use Cura for other printers. 
