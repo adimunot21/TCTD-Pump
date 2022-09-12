@@ -1,7 +1,7 @@
 # TCTD-Pump
 Files for the Infusion Pump Prototype created at TCTD
 
-Downloading Libraries:
+<b>Downloading Libraries:</b>
 1) AccelStepper Library - Sketch --> Include Library --> Manage Library --> Search "AccelStepper" --> Install
 
 Working with CAD:
