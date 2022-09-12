@@ -1,6 +1,6 @@
 # TCTD-Pump
 Codes for the Infusion Pump Prototype created at TCTD
 
-Design and Assembly:
+Design and Assembly: https://github.com/adimunot21/TCTD-Pump/blob/main/DesignAssembly.md
 
-Electronics: 
+Electronics: https://github.com/adimunot21/TCTD-Pump/blob/main/Electronics.md
