@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/24414678/189598110-9c179740-400b-47fe-bb9c-21e436191397.png" width = "400">
+<img src="https://user-images.githubusercontent.com/24414678/189598110-9c179740-400b-47fe-bb9c-21e436191397.png" width = "600">
 
 
 The system is run using a microcontroller (Arduino UNO) connected to a stepper motor via a driver (A4988). A bubble sensor and buzzer are connected to the board as well.
